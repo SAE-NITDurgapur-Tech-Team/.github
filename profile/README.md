@@ -14,12 +14,12 @@ Here, you can find a wide range of projects that our team has worked on. Feel fr
 
 If you have questions, suggestions, or just want to get in touch with our team, you can reach out to us through the following channels:
 
-- Email: contact@saetechteam.org
-- Website: [SAE Tech Team Website](https://www.saetechteam.org)
-- [Twitter](https://twitter.com/saetechteam)
-- [Facebook](https://www.facebook.com/saetechteam)
-- [Instagram](https://www.instagram.com/saetechteam)
-- [LinkedIn](https://www.linkedin.com/company/saetechteam)
+- Email: saeindia@nitdgp.ac.in
+- Website: [SAE Tech Team Website](https://www.saenitdgp.com/)
+- [Twitter](https://twitter.com/saeindia_nitdgp)
+- [Facebook](https://m.facebook.com/SAENITD)
+- [Instagram](https://www.instagram.com/sae.nitd/)
+- [LinkedIn](https://www.linkedin.com/company/sae-india-nit-dgp-collegiate-chapter/)
 
 We look forward to connecting with you and hope you enjoy exploring our projects!
 
